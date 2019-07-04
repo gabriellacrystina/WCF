@@ -1,0 +1,6 @@
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.exe.config
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.exe
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.pdb
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.exe
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.pdb

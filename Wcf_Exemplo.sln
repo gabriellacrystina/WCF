@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf_Exemplo", "Wcf_Exemplo\Wcf_Exemplo.csproj", "{4A5DA3D7-0FCB-43AE-9E94-488691F27F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windows_WCF", "..\windows_WCF\windows_WCF\windows_WCF.csproj", "{76E5D4A6-A6A5-4133-9E7C-9156A7F46CB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windows_WCF", "windows_WCF\windows_WCF.csproj", "{5D520690-AAB9-451B-9698-CF7EFB3420A8}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4A5DA3D7-0FCB-43AE-9E94-488691F27F4B} = {4A5DA3D7-0FCB-43AE-9E94-488691F27F4B}
 	EndProjectSection
@@ -20,10 +20,10 @@ Global
 		{4A5DA3D7-0FCB-43AE-9E94-488691F27F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A5DA3D7-0FCB-43AE-9E94-488691F27F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A5DA3D7-0FCB-43AE-9E94-488691F27F4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{76E5D4A6-A6A5-4133-9E7C-9156A7F46CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76E5D4A6-A6A5-4133-9E7C-9156A7F46CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76E5D4A6-A6A5-4133-9E7C-9156A7F46CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76E5D4A6-A6A5-4133-9E7C-9156A7F46CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D520690-AAB9-451B-9698-CF7EFB3420A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D520690-AAB9-451B-9698-CF7EFB3420A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D520690-AAB9-451B-9698-CF7EFB3420A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D520690-AAB9-451B-9698-CF7EFB3420A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
