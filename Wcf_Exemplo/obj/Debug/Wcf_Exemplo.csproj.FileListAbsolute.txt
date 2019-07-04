@@ -1,0 +1,7 @@
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.dll.config
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.dll
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.pdb
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\obj\Debug\Wcf_Exemplo.csprojAssemblyReference.cache
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\obj\Debug\Wcf_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\obj\Debug\Wcf_Exemplo.dll
+C:\Users\Gabriella\Documents\Visual Studio 2017\Projects\Wcf_Exemplo\Wcf_Exemplo\obj\Debug\Wcf_Exemplo.pdb
